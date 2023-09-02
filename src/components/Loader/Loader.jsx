@@ -8,6 +8,6 @@ export const Loader = () => (
         wrapperStyle={{ display: 'flex', width: '100%', justifyContent: 'center' }}
         wrapperClass="progress-bar-wrapper"
         borderColor="#100c08"
-        barColor="#e0e0e0"
+        barColor="#e9e4e4"
     />
 );
